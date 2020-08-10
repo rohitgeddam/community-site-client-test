@@ -1,0 +1,86 @@
+.footerContainer{
+    margin: 20px 0;
+    border-top: 1px solid rgba(0,0,0,0.5);
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footerMain{
+    display: flex;
+    justify-content: flex-start;
+    height: 100%;
+    width: 10%;
+    flex-grow: 1;
+    /* flex-shrink: 10; */
+}
+
+
+ .dscIcon{
+    max-width: 100px;
+    margin-right: 5%;
+    align-self: center;
+    flex-grow: 1;
+    flex-shrink: 4;
+}
+
+.links{
+    padding: 1em;
+    display: flex;
+    margin-right: 5%;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.features{
+    display:flex;
+    padding: 1em;
+    margin-right: 5%;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+.socialHandles{
+    border-left: 1px solid rgba(0,0,0,0.4);
+    height: 100%;
+    width: 20%;
+    padding: 1em;
+    display:flex;
+    flex-direction: column;
+    justify-items: flex-start;
+}
+
+.eventsAndUs{
+    display:flex;
+    padding: 1em;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.footerContainer a{
+    margin: 5px 0px;
+}
+
+.link{
+    text-decoration: none;
+    color: var(--primary-font-color);
+}
+
+.link:hover{
+    transform: scale(1.5d);
+}
+
+
+@media only screen and (max-width: 600px) {
+    .footerContainer{
+        flex-direction: column;
+    }
+    .socialHandles{
+        border: none;
+        align-self: center;
+    }
+    
+}
+
