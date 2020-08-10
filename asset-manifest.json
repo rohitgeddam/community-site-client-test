@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/community-site-client-test/static/css/main.64182e1e.chunk.css",
-    "main.js": "/community-site-client-test/static/js/main.87774b0d.chunk.js",
-    "main.js.map": "/community-site-client-test/static/js/main.87774b0d.chunk.js.map",
+    "main.js": "/community-site-client-test/static/js/main.d0996518.chunk.js",
+    "main.js.map": "/community-site-client-test/static/js/main.d0996518.chunk.js.map",
     "runtime-main.js": "/community-site-client-test/static/js/runtime-main.2d9428ee.js",
     "runtime-main.js.map": "/community-site-client-test/static/js/runtime-main.2d9428ee.js.map",
     "static/css/2.e2dd9b0a.chunk.css": "/community-site-client-test/static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f1dd9d9e.chunk.js": "/community-site-client-test/static/js/2.f1dd9d9e.chunk.js",
-    "static/js/2.f1dd9d9e.chunk.js.map": "/community-site-client-test/static/js/2.f1dd9d9e.chunk.js.map",
+    "static/js/2.15b7b35f.chunk.js": "/community-site-client-test/static/js/2.15b7b35f.chunk.js",
+    "static/js/2.15b7b35f.chunk.js.map": "/community-site-client-test/static/js/2.15b7b35f.chunk.js.map",
     "index.html": "/community-site-client-test/index.html",
-    "precache-manifest.d796bb2ce3fac50946ded2a8a8e3a6fc.js": "/community-site-client-test/precache-manifest.d796bb2ce3fac50946ded2a8a8e3a6fc.js",
+    "precache-manifest.e6c730729a418f6273904f738569df72.js": "/community-site-client-test/precache-manifest.e6c730729a418f6273904f738569df72.js",
     "service-worker.js": "/community-site-client-test/service-worker.js",
     "static/css/2.e2dd9b0a.chunk.css.map": "/community-site-client-test/static/css/2.e2dd9b0a.chunk.css.map",
     "static/css/main.64182e1e.chunk.css.map": "/community-site-client-test/static/css/main.64182e1e.chunk.css.map",
-    "static/js/2.f1dd9d9e.chunk.js.LICENSE.txt": "/community-site-client-test/static/js/2.f1dd9d9e.chunk.js.LICENSE.txt",
+    "static/js/2.15b7b35f.chunk.js.LICENSE.txt": "/community-site-client-test/static/js/2.15b7b35f.chunk.js.LICENSE.txt",
     "static/media/dscIcon.png": "/community-site-client-test/static/media/dscIcon.145d0c12.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2d9428ee.js",
     "static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f1dd9d9e.chunk.js",
+    "static/js/2.15b7b35f.chunk.js",
     "static/css/main.64182e1e.chunk.css",
-    "static/js/main.87774b0d.chunk.js"
+    "static/js/main.d0996518.chunk.js"
   ]
 }
